@@ -65,7 +65,7 @@ class HomePage extends StatelessWidget {
                         foregroundColor: Colors.white,
                         side: const BorderSide(color: Colors.white),
                         minimumSize: const Size(220, 45)),
-                    child: const Text("Flightss"),
+                    child: const Text("Flights"),
                   ),
                 ],
               ),
